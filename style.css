@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+body { 
+    background: url(creamcolor.jpg) repeat 0 0;
+}
